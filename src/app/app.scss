@@ -1,0 +1,26 @@
+.header {
+  background: linear-gradient(90deg, #4a90e2, #007acc);
+  padding: 20px 0;
+  color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+
+  &__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__title {
+    font-size: 28px;
+    font-weight: 700;
+    margin: 0;
+  }
+}
+
+
+.container-micro {
+    margin-top: 10px;
+}
