@@ -5,6 +5,7 @@
 ## Structure: 
 
 ├── public
+
 │ ├── favicon.ico
 ├── src
 │ ├── app - page with main app
