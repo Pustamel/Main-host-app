@@ -4,8 +4,8 @@
 
 ## Structure: 
 
+```
 ├── public
-
 │ ├── favicon.ico
 ├── src
 │ ├── app - page with main app
@@ -31,6 +31,7 @@
 ├── webpack.config.js - settings for host (main app)
 ├── webpack.prod.config.js
 └── yarn.lock
+```
 
 ![App screen](./src/assets/screen_app.png)
 
